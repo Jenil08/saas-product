@@ -39,3 +39,4 @@ jobs:
           aws-access-key-id: ${{ secrets.AWSACCESSKEYID }}
           aws-secret-access-key: ${{ secrets.AWSSECRETACCESSKEY }}
           aws-region: us-east-1  # Change as per your AWS regionss
+        
